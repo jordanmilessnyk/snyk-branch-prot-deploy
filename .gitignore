@@ -1,0 +1,12 @@
+# Ignore IDE files
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
