@@ -10,3 +10,16 @@
 ._*
 .Spotlight-V100
 .Trashes
+
+# Ignore Python environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+ENV.bak/
+venv.bak/
